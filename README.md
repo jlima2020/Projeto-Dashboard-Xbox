@@ -1,5 +1,5 @@
 # Projeto-Dashboard-Xbox
-# Dashboard de Vendas de Game Pass para Jogadores do Xbox
+# Game Pass para Jogadores do Xbox
 
 
 
