@@ -3,7 +3,7 @@
 
 
 
-![Logo do Xbox](https://example.com/xbox-logo.png)
+![Logo do Xbox](https://t4.ftcdn.net/jpg/04/56/00/95/360_F_456009538_31qs9LJuiqCLnjNRoPJvRZ4GwHluYhLs.jpg)
 
 ## Introdução
 Este projeto visa criar um dashboard interativo no Excel usando Power Query para analisar as vendas de Game Pass para jogadores do Xbox. O dashboard ajudará a visualizar as tendências de vendas, identificar os jogadores mais ativos e tomar decisões baseadas em dados.
